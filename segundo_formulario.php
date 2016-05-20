@@ -2,7 +2,7 @@
 
 
 echo "Hola mundo";
+echo "";
 
-echo "Esta es una prueba";
 
 ?>
