@@ -2,5 +2,6 @@
 
 
 echo "Hola mundo";
+echo "";
 
 ?>
